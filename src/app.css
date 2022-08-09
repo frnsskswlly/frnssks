@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply text-gray-400 bg-[#0e1212];
+        font-family: Roboto Mono, monospace, Roboto, sans-serif;
+    }
+    h1 {
+        @apply leading-10 my-10 text-2xl font-bold text-white;
+    }
+    p {
+        @apply mt-5 leading-8 text-base; 
+    }
+    h2 {
+        @apply mt-10 text-2xl leading-10 text-white;
+    }
+    ul {
+        @apply list-disc ml-7 -mt-3 p-3;
+    }
+    blockquote {
+        @apply my-5 mx-auto font-bold; 
+    }
+    table {
+        @apply min-w-full my-8;
+    }
+    tbody {
+        @apply border-b;
+    }
+    tr {
+        @apply border-b;
+    }
+    td {
+        @apply px-6 py-4;
+    }
+    img {
+        @apply flex mx-auto my-8;
+    }
+}
