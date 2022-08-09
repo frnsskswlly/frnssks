@@ -15,9 +15,9 @@
     <h2 class="text-center mb-10">Simply Hit Me Up on Social Media</h2>
     
     <div class="w-full mx-auto">
-        <button class="w-[80%] mx-auto my-3 border-[1px] text-emerald-600 rounded-md flex items-center justify-center"><img class="h-6 mr-2 ml-0 my-3" src="/linkedin.png" alt="blog"><a class="text-base" href="/blog">LinkedIn</a></button>
-        <button class="w-[80%] mx-auto my-3 border-[1px] text-emerald-600 rounded-md flex items-center justify-center"><img class="h-6 mr-2 ml-0 my-3" src="/github.png" alt="blog"><a class="text-base" href="/blog">Github</a></button>
-        <button class="w-[80%] mx-auto my-3 border-[1px] text-emerald-600 rounded-md flex items-center justify-center"><img class="h-6 mr-2 ml-0 my-3" src="/twitter.png" alt="blog"><a class="text-base" href="/blog">Twitter</a></button>
-        <button class="w-[80%] mx-auto my-3 border-[1px] text-emerald-600 rounded-md flex items-center justify-center"><img class="h-6 mr-2 ml-0 my-3" src="/facebook.png" alt="blog"><a class="text-base" href="/blog">Facebook</a></button>
+        <button class="w-[80%] mx-auto my-3 border-[1px] text-emerald-600 rounded-md flex items-center justify-center"><img class="h-6 mr-2 ml-0 my-3" src="/linkedin.png" alt="blog"><a class="text-base" href="https://linkedin.com/in/frnsskswilly/">LinkedIn</a></button>
+        <button class="w-[80%] mx-auto my-3 border-[1px] text-emerald-600 rounded-md flex items-center justify-center"><img class="h-6 mr-2 ml-0 my-3" src="/github.png" alt="blog"><a class="text-base" href="https://github.com/frnsskswlly">Github</a></button>
+        <button class="w-[80%] mx-auto my-3 border-[1px] text-emerald-600 rounded-md flex items-center justify-center"><img class="h-6 mr-2 ml-0 my-3" src="/twitter.png" alt="blog"><a class="text-base" href="https://twitter.com/sirefransk">Twitter</a></button>
+        <button class="w-[80%] mx-auto my-3 border-[1px] text-emerald-600 rounded-md flex items-center justify-center"><img class="h-6 mr-2 ml-0 my-3" src="/facebook.png" alt="blog"><a class="text-base" href="https://facebook.com/fxwillywongso/">Facebook</a></button>
     </div>
 </div>
