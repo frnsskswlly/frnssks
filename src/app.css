@@ -37,4 +37,11 @@
     img {
         @apply flex mx-auto my-8;
     }
+    pre {
+        @apply my-3 py-3 px-5 border-[1px] rounded overflow-auto bg-gray-900;
+    }
+    code {
+        font-family: IBM Plex Mono, monospace;
+        @apply text-amber-400 font-light text-sm;
+    }
 }

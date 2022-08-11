@@ -34,7 +34,7 @@ import Contact from '$lib/contact.svelte';
             </div>  
         {/each}
     </div>
-    <button class="flex mx-auto mt-6 text-white text-base px-3 py-2 bg-emerald-600 border-emerald-600 border-[1px] rounded">View all</button>
+    <button class="flex mx-auto mt-6 text-white text-base px-3 py-2 bg-emerald-600 border-emerald-600 border-[1px] rounded"><a href="/blog">View all</a></button>
 </div>
 
 <Contact />

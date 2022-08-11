@@ -22,15 +22,15 @@
                 <div class="px-0 pb-6"> 
                     <div class="text-gray-500 m-0">
                         <p class="m-0 text-emerald-600 font-bold">Sales Consultant</p>
-                        <p class="m-0">@ PT. Citra Tata Sejahterah</p>
-                        <p class="m-0">2016 - 2017</p>
+                        <p class="m-0">@ PT. Anugerah Kasih Putera</p>
+                        <p class="m-0">2017 - 2018</p>
                     </div>
                 </div>  
                 <div class="px-0 pb-6"> 
                     <div class="text-gray-500 mx-auto">
                         <p class="m-0 text-emerald-600 font-bold">IT Staff</p>
                         <p class="m-0">@ Mercure Hotel</p>
-                        <p class="m-0">2015 - 2016</p>
+                        <p class="m-0">2014 - 2015</p>
                     </div>
                 </div>  
                 <div class="px-0"> 

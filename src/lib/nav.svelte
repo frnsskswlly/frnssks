@@ -1,5 +1,5 @@
 
-    <nav class="w-[100%] top-0 fixed">
+    <nav class="w-[100%] top-0 fixed bg-[#0e1212]">
         <div class="w-[90%] pt-3 xl:w-[1440px] mx-auto md:w-[90%] md:px-2 sm:px-0 :px-0 flex flex-wrap justify-between items-center">
             <a href="/" class="flex items-center">
                 <!-- <img src="/logos.png" class="mr-2 h-5 my-0" alt="Frnsskswlly" /> -->
